@@ -1,7 +1,7 @@
 bikini-atoll
 ============
 
-Test repository used for GitHub integration work. Useless.
+Test repository used for GitHub integration work. Useless. Hooray.
 
 WOO DUMB THING
 
