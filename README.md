@@ -3,6 +3,6 @@ bikini-atoll
 
 Test repoitory used for GitHub integration work. Useless. Hooray.
 
-WOO DUMB THING
+WOO DUMB THIN
 
 I'M REAL DUMB TOO
