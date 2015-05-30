@@ -2,6 +2,10 @@ language: objective-c
 
 install:
   - brew update
+  - brew install nginx
+  - brew install boot2docker
+  - boot2docker init
+  - boot2docker up
 
 script:
   - ls
