@@ -6,8 +6,8 @@ install:
   - brew install caskroom/cask/brew-cask
   - brew cask install virtualbox
   - brew install boot2docker
-  - boot2docker init
-  - boot2docker up
+  - boot2docker -v init
+  - boot2docker -v up
 
 script:
   - ls
