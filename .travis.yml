@@ -3,7 +3,8 @@ language: objective-c
 install:
   - brew update
   - brew install nginx
-  - brew install virtualbox
+  - brew tap caskroom/cask
+  - brew cask install virtualbox
   - brew install boot2docker
   - boot2docker init
   - boot2docker up
